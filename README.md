@@ -2,6 +2,8 @@
 
 Transformer that inlines asset files into Dart source files as strings.
 
+[![Build Status](https://travis-ci.org/RSSchermer/inline_assets.dart.svg?branch=master)](https://travis-ci.org/RSSchermer/inline_assets.dart)
+
 ## Usage
 
 Add the `inline_assets` transformer to the transformer list in your 

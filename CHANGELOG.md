@@ -1,5 +1,5 @@
-# Changelog
+# inline_assets.dart change log
 
-## 0.0.1
+## 0.1.0
 
-- Initial version, created by Stagehand
+- Initial version

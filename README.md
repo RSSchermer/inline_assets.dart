@@ -9,7 +9,7 @@ Add the `inline_assets` transformer to the transformer list in your
 
 ```yaml
 transformers:
-  - glsl_include_transformer
+  - inline_assets
 ```
 
 This transformer substitutes `INLINE_ASSET("uri")` placeholders with the 

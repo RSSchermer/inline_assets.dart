@@ -1,5 +1,5 @@
 name: inline_assets
-description: Transformer that inlines asset file contents as string in Dart source code.
+description: Transformer that inlines asset file contents as strings in Dart source code.
 version: 0.1.0
 author: R.S. Schermer <roland0507@gmail.com>
 homepage: https://github.com/RSSchermer/inline_assets.dart

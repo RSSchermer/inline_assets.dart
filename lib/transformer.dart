@@ -17,10 +17,10 @@ import 'package:source_span/source_span.dart';
 ///     import 'package:inline_assets/inline_assets.dart';
 ///
 ///     // Will be set to the contents of my_package|lib/queries/my_query.sql
-///     String query = INLINE_ASSET('package:my_package/queries/my_query.sql');
+///     String query = INLINE_ASSET('queries/my_query.sql');
 ///
-///     // Will be set to the contents of 3d|lib/shaders/some_shader.glsl
-///     String shader = INLINE_ASSET('package:3d/shaders/some_shader.glsl');
+///     // Will be set to the contents of other|lib/shaders/some_shader.glsl
+///     String shader = INLINE_ASSET('package:other/shaders/some_shader.glsl');
 ///
 /// Absolute URIs are not allowed.
 class InlineAssetTransformer extends Transformer {
